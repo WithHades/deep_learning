@@ -43,4 +43,14 @@ CNN 入门讲解：什么是全连接层（Fully Connected Layer）?：<https://
 
 快速理解实现风格迁移：<https://blog.csdn.net/a595130080/article/details/79182843>
 
+长短期记忆网络（LSTMs）介绍1：传统RNN的缺点，LSTM结构解析，LSTM变体简介：<https://zhuanlan.zhihu.com/p/33113729?from_voters_page=true>
+
+LSTM：RNN最常用的变体：<https://zhuanlan.zhihu.com/p/44124492>
+
+RNN 的梯度消失问题：<https://zhuanlan.zhihu.com/p/44163528>
+
+人人都能看懂的LSTM：<https://zhuanlan.zhihu.com/p/32085405>
+
+人人都能看懂的GRU：<https://zhuanlan.zhihu.com/p/32481747>
+
 再次表示感谢!
